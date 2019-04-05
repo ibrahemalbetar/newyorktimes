@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NY Times</string>
+    <string name="action_refresh">Refresh recently news</string>
+    <string name="no_data">Sorry no data available now !</string>
+    <string name="wait">Loading. Please wait...</string>
+    <string name="monthly_new">Monthly News</string>
+    <string name="weekly_news">Weekly News</string>
+</resources>
